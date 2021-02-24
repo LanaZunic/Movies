@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="backrop">Backrop</string>
+    <string name="poster">poster</string>
+    <string name="api_key">fe3b8cf16d78a0e23f0c509d8c37caad</string>
+    <string name="image_path">https://image.tmdb.org/t/p/w500/</string>
+
+</resources>

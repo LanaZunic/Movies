@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemPopular"
+        android:title="Popular"
+        android:icon="@drawable/baseline_groups_black_18dp"/>
+
+    <item
+        android:id="@+id/itemTopRated"
+        android:title="Top rated"
+        android:icon="@drawable/baseline_star_border_black_18dp"/>
+</menu>
